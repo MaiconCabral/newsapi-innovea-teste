@@ -3,4 +3,5 @@
 
 # Para rodar 
 npm install (baixar as dependências)
+#
 npm run dev (subir o servidor local)
